@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on creating some AI stuff.
 - 📫 How to reach me octopusstudiosocst@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm hope to become a robot
+- ⚡ Fun fact: I hope to become a robot
 
 <!---
 OcstZOctoverse/OcstZOctoverse is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
