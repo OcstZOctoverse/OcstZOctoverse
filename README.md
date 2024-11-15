@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OcstZOctoverse
-- 👀 I’m interested in programming AI, computer hardware, and physics.
-- 🌱 I’m currently learning pytorch and Javascript in terms of programming.
-- 💞️ I’m looking to collaborate on creating some AI stuff.
+- 👀 I’m interested in algorithms, computer hardware, and physics.
+- 🌱 I’m currently learning ML algorithms and pytorch
+- 💞️ I’m looking to collaborate on creating anything with cool algorithms.
 - 📫 How to reach me octopusstudiosocst@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I hope to become a robot
