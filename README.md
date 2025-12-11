@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @OcstZOctoverse
-- 👀 I’m interested in software/system architecture, AI, cybersecurity, game dev, programming, computer hardware, and physics.
+- 👀 I’m interested in software/system architecture, AI, cybersecurity, physics, and embedded.
 - 🌱 I’m currently learning ML algorithms and cybersecurity
 - 💞️ I’m looking to collaborate on creating anything with cool features.
 - 📫 How to reach me octopusstudiosocst@gmail.com
