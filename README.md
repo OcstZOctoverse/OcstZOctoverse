@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OcstZOctoverse
-- 👀 I’m interested in software/system architecture, AI, cybersecurity, physics, and embedded.
-- 🌱 I’m currently learning ML algorithms and cybersecurity
-- 💞️ I’m looking to collaborate on creating anything with cool features.
+- 👀 I’m interested in software/system architecture, AI, cybersecurity, physics, math, and embedded. Especially natural computation
+- 🌱 I’m currently learning statistics and natural.
+- 💞️ I’m looking to collaborate on creating anything.
 - 📫 How to reach me octopusstudiosocst@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I hope to become a robot
