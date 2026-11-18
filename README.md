@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @OcstZOctoverse
-- 👀 I’m interested in software/system architecture, AI, cybersecurity, physics, math, and embedded. Especially natural computation
+- 👀 I’m interested in software/system architecture, AI, cybersecurity, physics, math, and embedded. Especially natural computation. Also I play hella minecraft
 - 🌱 I’m currently learning statistics and natural.
 - 💞️ I’m looking to collaborate on creating anything.
 - 📫 How to reach me octopusstudiosocst@gmail.com
